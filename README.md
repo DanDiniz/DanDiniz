@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanDiniz
-- 👀 I’m interested in ...learn about programming
-- 🌱 I’m currently learning ...about Back and Front end
+- 👀 I’m interested in learn about programming
+- 🌱 I’m currently learning about Back and Front end
 
 
 
