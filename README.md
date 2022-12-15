@@ -17,5 +17,4 @@
 
 ***
 
-[Meu GitHub](https://github.com/DanDiniz)
 
