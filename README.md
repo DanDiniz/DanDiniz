@@ -1,4 +1,4 @@
-## [Daniel Diniz](https://github.com/DanDiniz) | Dev-web Fullstack 💻
+## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor Fullstack 💻
 
 - 👨🏾‍🎓 *Estudante de TI*
 - 🪴 *Estudando PHP (Laravel)*
