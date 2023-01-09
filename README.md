@@ -1,8 +1,8 @@
 ## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor Fullstack 💻
 
 - 👨🏾‍🎓 *Estudante de TI*
-- 🪴 *Estudando PHP (Laravel)*
-- 🪴 *JavaScript (Jquery)*
+- 🪴 *Estudando Node JS*
+- 🪴 *JavaScript (React)*
  
 <h2 align = "center">• Meu Portifolio Online •</h2>
 
