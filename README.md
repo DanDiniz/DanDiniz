@@ -1,8 +1,9 @@
-## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor Fullstack 💻
+## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor JAVA 💻
 
 - 👨🏾‍🎓 *Estudante de TI*
-- 🪴 *Estudando Node JS*
-- 🪴 *JavaScript (React)*
+- 🪴 *Estudando Node JAVA SPRINGBOOT*
+- 🪴 *Conhecimentos em HTML,CSS,JAVASCRIPT*
+
  
 <h2 align = "center">• Meu Portifolio Online •</h2>
 
