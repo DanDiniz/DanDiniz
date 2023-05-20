@@ -1,7 +1,7 @@
 ## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor JAVA 💻
 
 - 👨🏾‍🎓 *Estudante de TI*
-- 🪴 *Estudando Node JAVA SPRINGBOOT*
+- 🪴 *Estudando JAVA SPRINGBOOT*
 - 🪴 *Conhecimentos em HTML,CSS,JAVASCRIPT*
 
  
