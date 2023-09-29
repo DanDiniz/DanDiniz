@@ -2,7 +2,7 @@
 
 - 👨🏾‍🎓 *Estudante de TI*
 - 🪴 *Estudando JAVA SPRINGBOOT + JDBC*
-- 🪴 *Conhecimentos em HTML,CSS,JAVASCRIPT*
+- 🪴 *Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB*
 
 
 
