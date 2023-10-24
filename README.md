@@ -1,8 +1,8 @@
-## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor JAVA 💻
+## [Daniel Diniz](https://github.com/DanDiniz) | Desenvolvedor WEB 💻
 
 - 👨🏾‍🎓 *Estudante de TI*
 - 🪴 *Estudando JAVA SPRINGBOOT + JDBC*
-- 🪴 *Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB*
+- 🪴 *HTML,CSS,JAVASCRIPT,PHP,JAVA,MYSQL*
 
 
 
